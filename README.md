@@ -9,6 +9,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -53,6 +54,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
@@ -78,6 +80,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -88,4 +91,8 @@
 | [0002-add-two-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
