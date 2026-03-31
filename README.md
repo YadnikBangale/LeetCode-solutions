@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0287-find-the-duplicate-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0332-reconstruct-itinerary](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -14,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -136,4 +138,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
