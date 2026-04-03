@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0461-hamming-distance) |
 ## Linked List
 |  |
 | ------- |
