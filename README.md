@@ -158,4 +158,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
