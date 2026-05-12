@@ -15,6 +15,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | [0332-reconstruct-itinerary](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -90,6 +93,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +102,7 @@
 | [0287-find-the-duplicate-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
