@@ -16,6 +16,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0704-binary-search) |
+| [1051-height-checker](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -41,6 +42,7 @@
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Heap (Priority Queue)
@@ -186,4 +188,5 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
