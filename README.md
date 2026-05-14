@@ -67,6 +67,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
+| [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0796-rotate-string) |
 ## Tree
 |  |
@@ -130,6 +131,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0007-reverse-integer) |
+| [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
@@ -189,4 +191,8 @@
 | ------- |
 | [0561-array-partition](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1051-height-checker) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
