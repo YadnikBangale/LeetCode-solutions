@@ -17,6 +17,7 @@
 | [0561-array-partition](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -135,6 +136,7 @@
 | [0007-reverse-integer](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
