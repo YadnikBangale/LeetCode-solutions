@@ -30,6 +30,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
@@ -72,6 +73,7 @@
 | [0332-reconstruct-itinerary](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0796-rotate-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Tree
 |  |
