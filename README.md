@@ -22,6 +22,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
