@@ -146,6 +146,7 @@
 | [0007-reverse-integer](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1017-convert-to-base-2](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1017-convert-to-base-2) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3895-count-digit-appearances](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3895-count-digit-appearances) |
