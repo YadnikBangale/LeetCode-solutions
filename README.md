@@ -78,6 +78,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
@@ -88,10 +89,12 @@
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -107,6 +110,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Two Pointers
 |  |
@@ -188,6 +192,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0037-sudoku-solver) |
+| [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
