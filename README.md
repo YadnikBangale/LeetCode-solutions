@@ -84,6 +84,7 @@
 | [0332-reconstruct-itinerary](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0796-rotate-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
