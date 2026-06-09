@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
@@ -71,6 +72,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0551-student-attendance-record-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0796-rotate-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Tree
 |  |
@@ -144,6 +147,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0461-hamming-distance) |
+| [2351-first-letter-to-appear-twice](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
 |  |
 | ------- |
