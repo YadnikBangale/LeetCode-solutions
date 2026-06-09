@@ -204,6 +204,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0037-sudoku-solver) |
+| [0052-n-queens-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0282-expression-add-operators) |
 ## Matrix
