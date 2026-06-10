@@ -224,6 +224,7 @@
 | [0584-find-customer-referee](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1068-product-sales-analysis-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Greedy
 |  |
 | ------- |
