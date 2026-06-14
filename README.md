@@ -85,6 +85,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Queue
 |  |
@@ -266,5 +268,6 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
