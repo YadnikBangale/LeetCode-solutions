@@ -140,6 +140,7 @@
 | [0541-reverse-string-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -261,4 +263,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
