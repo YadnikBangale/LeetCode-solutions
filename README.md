@@ -172,6 +172,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0010-regular-expression-matching](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [2487-remove-nodes-from-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -272,4 +274,9 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
