@@ -99,6 +99,7 @@
 | [0796-rotate-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0796-rotate-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3110-score-of-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3838-weighted-word-mapping](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Tree
