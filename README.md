@@ -87,6 +87,7 @@
 | [0010-regular-expression-matching](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0065-valid-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
