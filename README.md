@@ -38,6 +38,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -93,6 +94,7 @@
 | [0032-longest-valid-parentheses](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0282-expression-add-operators) |
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Database
 |  |
