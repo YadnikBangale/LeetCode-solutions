@@ -191,6 +191,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0007-reverse-integer) |
+| [0060-permutation-sequence](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0060-permutation-sequence) |
 | [0282-expression-add-operators](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -207,6 +208,7 @@
 | [0010-regular-expression-matching](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0060-permutation-sequence) |
 | [2487-remove-nodes-from-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Doubly-Linked List
 |  |
