@@ -234,6 +234,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String Matching
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 | [0010-regular-expression-matching](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Queue
 |  |
 | ------- |
