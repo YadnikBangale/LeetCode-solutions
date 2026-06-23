@@ -44,6 +44,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0859-buddy-strings](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -107,6 +108,7 @@
 | [0541-reverse-string-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0796-rotate-string) |
+| [0859-buddy-strings](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
