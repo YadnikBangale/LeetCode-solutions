@@ -23,6 +23,7 @@
 | [1051-height-checker](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1732-find-the-highest-altitude](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -48,6 +49,7 @@
 | [1002-find-common-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -67,6 +69,7 @@
 | [0561-array-partition](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -279,6 +282,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Simulation
 |  |
