@@ -31,6 +31,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3701-compute-alternating-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
@@ -289,6 +290,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [3701-compute-alternating-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
