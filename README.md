@@ -24,6 +24,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1732-find-the-highest-altitude](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
