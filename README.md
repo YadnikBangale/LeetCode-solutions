@@ -129,6 +129,7 @@
 | [3110-score-of-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3838-weighted-word-mapping](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3894-traffic-signal-color) |
 ## Tree
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3894-traffic-signal-color](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
@@ -300,6 +302,7 @@
 | [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [3701-compute-alternating-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
 | ------- |
