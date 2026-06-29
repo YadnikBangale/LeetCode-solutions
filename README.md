@@ -31,6 +31,7 @@
 | [1732-find-the-highest-altitude](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -125,6 +126,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
