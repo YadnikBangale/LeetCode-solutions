@@ -18,6 +18,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0704-binary-search) |
 | [1002-find-common-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1051-height-checker) |
@@ -274,6 +275,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Database
 |  |
