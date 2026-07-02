@@ -60,6 +60,7 @@
 | [1512-number-of-good-pairs](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
@@ -98,6 +99,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
@@ -130,6 +132,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3110-score-of-a-string) |
@@ -279,6 +282,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Database
 |  |
 | ------- |
