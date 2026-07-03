@@ -23,6 +23,7 @@
 | [1002-find-common-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -280,6 +281,7 @@
 | [0076-minimum-window-substring](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
