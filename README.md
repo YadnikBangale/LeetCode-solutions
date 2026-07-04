@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0068-text-justification) |
+| [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -47,6 +48,7 @@
 | [0037-sudoku-solver](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
+| [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -116,6 +118,7 @@
 | [0068-text-justification](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -268,6 +271,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0282-expression-add-operators) |
 ## Matrix
@@ -323,6 +327,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -340,4 +345,12 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
