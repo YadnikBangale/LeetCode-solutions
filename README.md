@@ -235,6 +235,7 @@
 | [1512-number-of-good-pairs](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3894-traffic-signal-color](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3895-count-digit-appearances) |
@@ -363,4 +364,8 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
