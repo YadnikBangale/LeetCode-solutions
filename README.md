@@ -55,6 +55,7 @@
 | [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -126,6 +128,7 @@
 | [0087-scramble-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
+| [0242-valid-anagram](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
