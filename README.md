@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0068-text-justification) |
@@ -51,6 +52,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
@@ -80,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0242-valid-anagram) |
@@ -122,6 +125,7 @@
 | [0010-regular-expression-matching](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
