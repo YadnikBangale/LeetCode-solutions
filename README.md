@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0068-text-justification) |
+| [0128-longest-consecutive-sequence](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@
 | [0041-first-missing-positive](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0217-contains-duplicate) |
@@ -382,4 +384,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
