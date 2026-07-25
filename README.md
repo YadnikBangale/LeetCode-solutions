@@ -100,6 +100,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3536-maximum-product-of-two-digits](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
