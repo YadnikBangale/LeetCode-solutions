@@ -163,6 +163,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3110-score-of-a-string](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3110-score-of-a-string) |
@@ -258,6 +259,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -329,6 +331,7 @@
 | [1652-defuse-the-bomb](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Database
 |  |
