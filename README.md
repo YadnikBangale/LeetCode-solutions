@@ -64,6 +64,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -206,6 +207,7 @@
 | [0061-rotate-list](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
@@ -251,6 +253,7 @@
 | [0002-add-two-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0060-permutation-sequence) |
+| [0202-happy-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0282-expression-add-operators](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -411,4 +414,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/YadnikBangale/LeetCode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
